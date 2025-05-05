@@ -1,5 +1,8 @@
 #include <Arduino.h>
 
+//codigo de display generico
+
+
 
 
 // put function declarations here:
